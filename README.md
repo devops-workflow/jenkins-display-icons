@@ -1,4 +1,4 @@
-Simple script to display availalb eicon on Jenkins server
+Simple script to display available icons on Jenkins server
 
-This is so users can can see what is available and reference them in jobs
+This is so users can see what is available and reference them in jobs
 
